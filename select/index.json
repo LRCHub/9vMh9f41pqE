@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Tremor",
+  "base_artist": "Dimitri Vegas、Martin Garrix、Like Mike",
+  "createdAt": "2025-12-01T06:08:34.495782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In Tremor Dei",
+      "artist": "Moonspell",
+      "has_synced": false,
+      "path": "select/01_In_Tremor_Dei_Moonspell.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tremor Christ",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/02_Tremor_Christ_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tremor Christ",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/03_Tremor_Christ_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tremor Christ - Live April 12, 1994, Orpheum Theater, Boston, MA",
+      "artist": "Pearl Jam",
+      "has_synced": false,
+      "path": "select/04_Tremor_Christ_-_Live_April_12,_1994,_Orpheum_Theater,_Boston,_MA_Pearl_Jam.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tremor Christ - Live",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/05_Tremor_Christ_-_Live_Pearl_Jam.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tremor Christ (Live)",
+      "artist": "Pearl Jam",
+      "has_synced": true,
+      "path": "select/06_Tremor_Christ_(Live)_Pearl_Jam.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tremors",
+      "artist": "金子ノブアキ",
+      "has_synced": false,
+      "path": "select/pl_01_Tremors_金子ノブアキ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Tremor",
+      "artist": "金子ノブアキ",
+      "has_synced": false,
+      "path": "select/pl_02_Tremor_金子ノブアキ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Tremor - Sensation 2014 Anthem; Radio Edit",
+      "artist": "金子ノブアキ",
+      "has_synced": false,
+      "path": "select/pl_03_Tremor_-_Sensation_2014_Anthem;_Radio_Edit_金子ノブアキ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Tremors",
+      "artist": "金子ノブアキ",
+      "has_synced": false,
+      "path": "select/pl_04_Tremors_金子ノブアキ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Tremor Christ",
+      "artist": "金子ノブアキ",
+      "has_synced": false,
+      "path": "select/pl_05_Tremor_Christ_金子ノブアキ.txt"
+    }
+  ]
+}
